@@ -1,0 +1,801 @@
+candidate_relation_triple,label
+direct implementation defined by recursive divide,0
+a subroutine is to compute function,0
+purpose is to compute function,0
+a subroutine is called a predicate,0
+purpose is called a predicate,0
+all subroutines are called predicates,0
+all subroutines determine success,0
+all subroutines determine failure,0
+all subroutines are called logic programming languages,0
+function has a mathematical definition,0
+a mathematical definition is important in computer science,0
+a mathematical definition is important in statistics,0
+one argument mathematical function return the same one value,0
+one argument mathematical function return one argument mathematical function,0
+question pertains to optimization,0
+anything deals with capacity,0
+anything deals with speed,0
+anything consider using this tag,0
+performance is represented in big o notation,0
+an algorithm's resource requirements change in response,0
+this tag represent system performance,0
+latencies don't follow a normal distribution,0
+latencies have high upper limits,0
+questions be tagged with the target framework,0
+the user do something,0
+the user click a button,0
+a batch program spends a batch program,0
+all visual elements derive from the control class,0
+the control class has docking support,0
+a control rearrange the control class position,0
+active accessibility support helps impaired users,0
+active accessibility support use windows forms,0
+windows forms added windows forms own controls,0
+own controls are rendered using using gdi,0
+a data frame contains data,0
+the term used in matlab,0
+the term used in sql,0
+a data frame contains data,0
+table used in sql,0
+table used in matlab,0
+the term used in sql,0
+the term used in matlab,0
+each language uses this term,0
+each language are aimed at the level,0
+data frames are one of matrices,0
+indices can be used for alignment,0
+columns are somewhat prioritized over r,0
+columns are somewhat prioritized over an implementation perspective,0
+columns are somewhat prioritized over rows,0
+dataframes can be constructed from a wide array,0
+every column has the same length,0
+each variable can have a different type,0
+the first row corresponds to names,0
+the first row corresponds to the column,0
+the first column corresponds to the row,0
+these row are treated as information,0
+columns are treated as information,0
+the data stored in a dataframe,0
+programming questions should be tagged the cross-platform version powershell core,0
+the cross-platform version powershell core should be tagged the cross-platform version powershell core,0
+questions should be asked on super user,0
+questions should be asked on server fault,0
+questions should be asked on super user,0
+questions should be asked on server fault,0
+an underlying scripting environment run scripts,0
+an underlying scripting environment run debugging environment,0
+an underlying scripting environment run line,0
+powershell has a language,0
+the same kinds work across many domains,0
+date process objects representing running processes,0
+objects representing running processes can be piped to other commands,0
+other commands work with process objects,0
+many commands have short aliases,0
+powershell manipulating manipulating text,0
+powershell enhances powershell,0
+objects carry type information,0
+objects carry complex state,0
+comma separated arguments separated comma separated arguments,0
+the problem caused by this issue,0
+james are packaged a single argument,0
+bond are packaged a single argument,0
+a single argument is passed to the first parameter,0
+the use will catch this type,0
+the use will catch powershell,0
+a profile.ps1 defined inside this folder,0
+the profile file is used to define certain commands,0
+common commands might include adding in,0
+psreadline replaces the command line editing experience,0
+powertab offers enhanced tab expansion,0
+members have expressed interest,0
+members been added to powershell,0
+members haven't been added powershell,0
+questions should be tagged core,0
+various toolboxes extend core capabilities,0
+programmers must own a valid software license,0
+users must own a valid software license,0
+programmers must own open source languages,0
+users must own open source languages,0
+a good api develop a program,0
+a programmer puts the building,0
+an api may include specifications,0
+an api specification can take many forms,0
+questions recommend an api,0
+questions recommend documentation,0
+questions recommend site resource,0
+the term is used to refer historical convention,0
+the apache tag is associated the apache server project,0
+the python language adds support,0
+the python language adds matrixes,0
+the python language adds a large library,0
+the python language adds large multidimensional arrays,0
+numpy contains among other things,0
+a software library implements transactional sql database engine,0
+a software library implements transactional sql database engine,0
+potential answerers recreate the database,0
+solution proposals are supported by test output,0
+solution proposals are supported by test runs,0
+showing pictures does not provide the same benefits,0
+a good way is used to handle the database,0
+sqlite is commonly used to store data,0
+the application program communicates no standalone processes,0
+the application program uses sqlite's functionality,0
+the application program uses simple function calls,0
+function calls within a single process,0
+sqlite stores the entire database,0
+sqlite stores a single cross-platform file,0
+entity framework supports change tracking,0
+entity framework supports updates,0
+entity framework supports schema migrations,0
+relational data using domain using specific objects,0
+entity framework eliminates the need,0
+entity framework supports major rdbm products including sql server,0
+entity framework supports microsoft,0
+new codebase shares many concepts,0
+new codebase shares the classic framework,0
+new codebase differs considerably in mapping specific features,0
+new codebase differs considerably in mapping mapping syntax,0
+new codebase differs considerably in mapping query translation,0
+core having new codebase,0
+core came with many breaking changes,0
+core marking the beginning,0
+versions keep track,0
+selenium provides specific language,0
+selenium write tests,0
+test playback is possible in modern web browsers,0
+all rc users will find that selenium,0
+webdriver users will find that selenium,0
+the browser api is provided by the browser manufacturer,0
+provided javascript libraries would be injected into the browser,0
+jason huggins was later joined by testers,0
+jason huggins was later joined by thoughtworks,0
+jason huggins was later joined by other programmers,0
+selenium can be downloaded charge,0
+selenium recorder was initially created by the source code base,0
+developers integrate developers apps,0
+developers integrate social networking service,0
+facebook has variety,0
+this tag is also not for questions,0
+party developers own applications,0
+party developers own services,0
+applications access data,0
+services access data,0
+applications access facebook,0
+services access facebook,0
+developers integrate developers applications,0
+developers integrate social networking servicefacebook,0
+facebook platform offers a set,0
+applications allowed to access the graph,0
+facebook platform has evolved from enabling may,0
+facebook platform has evolved from enabling enabling development,0
+photos can post to wall,0
+flutter is used to develop applications,0
+flutter applications are written in the dart programming language,0
+flutter applications can connect to platform languages,0
+flutter is different than other options,0
+the oem widgets shipped with the device,0
+widgets make for beautiful apps,0
+representational state transfer has increased in the intrinsic de-coupling,0
+representational state transfer has increased in popularity,0
+an architectural style uses identification,0
+the term was introduced roy fielding,0
+restful api is queried to find information,0
+the term 'shell refers to a general class,0
+solution should be assumed a specific tag,0
+the term 'shell refers to a general class,0
+rc samples should be clear about the version,0
+rc samples should be clear about the environment,0
+tcsh comes originally as a design improvement,0
+terminal emulators are used to access graphical user mode,0
+terminal emulators are used to access the original c shell,0
+linq supports two notations,0
+queries are expressed in dialects,0
+queries are expressed in like language,0
+this query would return the name,0
+all linq query operations consist of three distinct actions,0
+this query would return category,0
+this query would return a price,0
+other implementations can be found on the internet,0
+linq add operators,0
+linq add the ones,0
+statements may be executed repeatedly until programming,0
+entry controlled loops,0
+a loop checks the condition,0
+exit controlled loop,0
+a loop can be categorized in two different ways,0
+a loop can be categorized in a loop,0
+a loop checks for the condition,0
+languages provide a subset,0
+loops are example,0
+loops are python,0
+keyword are example,0
+keyword are python,0
+two keywords simplify the task,0
+two keywords are some languages,0
+the tag loops can be used for problems,0
+?kju?.ti? used for developing non-gui programs,0
+nokia decided to sell one month,0
+nokia decided to sell qt,0
+qt is available under four different licenses,0
+the major version indicates api,0
+the major version indicates binary compatibility,0
+questions tagged specifically as qt3,0
+questions tagged specifically as qt4,0
+questions tagged specifically as qt5,0
+questions tagged specifically as qt6,0
+the question is related to qt 3.x,0
+the question is related to 4.x,0
+the question is related to 5.x,0
+the question is related to 6.x,0
+apple inc. are aiming for quality,0
+apple inc. are aiming for this tag,0
+apple inc. do not wish to encourage poor questions,0
+these tutorials referenced in the questions,0
+these tutorials referenced in answers,0
+examples referenced in the questions,0
+examples referenced in answers,0
+pluralsight has three courses,0
+the author #name? a private tweet,0
+the author request a week,0
+voidrealm released a full free series,0
+voidrealm released beginners,0
+questions don't relate to a specific apache maven version,0
+a developer comprehend the complete state,0
+systems should assume reasonable defaults,0
+systems should assume systems,0
+libraries should assume reasonable defaults,0
+libraries should assume systems,0
+frameworks should assume reasonable defaults,0
+frameworks should assume systems,0
+apache maven attempts to deal several areas,0
+a file is referred to as the pom file,0
+this tag refer to the maven versions,0
+questions have plugin,0
+questions have profiles tag,0
+questions have archetype tag,0
+the standard java sdk is contained within the package javax.swing,0
+any access should happen on the swing thread,0
+the official android development environment is based on intellij idea,0
+android studio is released in august,0
+the table fields delimited by other delimiter character,0
+the table fields delimited by rows,0
+the table fields delimited by commas,0
+the table fields delimited by tabs,0
+newlines can appear within fields,0
+separator characters can appear within fields,0
+other characters can be used semi-colons,0
+information is often stored in csv format,0
+each row is represented as a list,0
+values contain the delimiter,0
+values may be enclosed in quotes,0
+values contain a value,0
+the first row contains headers,0
+table's columns describe the meaning,0
+header describes the corresponding data,0
+the first row serves as this example,0
+the first row serves as header,0
+each successive line fit into the first line,0
+each successive line fit into the same field,0
+empty fields held with commas,0
+vue.js questions be tagged with vuejs3,0
+vue.js questions be tagged with this tag,0
+vue.js questions be tagged with vuejs2,0
+vue embraces the idea,0
+changes drive changes,0
+this idea forms the core,0
+vue includes some notable changes,0
+vue includes improvements,0
+questions should be tagged with vuejs2,0
+questions should be tagged with vuejs3,0
+the code is often useful to share runnable snippets,0
+stack snippets run single file components,0
+individual units are tested to determine a method,0
+individual units are fit for use,0
+individual units are tested to determine a method,0
+individual units are fit for use,0
+unit tests are created by the development process,0
+unit tests are created by programmers,0
+unit tests are created by white box testers,0
+unit tests are created by the development process,0
+unit tests are created by programmers,0
+unit tests are created by white box testers,0
+each test case is independent from the others,0
+substitutes assist testing a module,0
+these substitutes known as example,0
+test doubles can be used to isolate dependencies,0
+code meets design,0
+unit tests are typically written software developers,0
+unit testing is closely related to test driven development,0
+the goal is to isolate each part,0
+a unit test provides contract,0
+files are available to computer programs,0
+files are usually based on some kind,0
+storing information is available to a computer program,0
+storing information is usually based on some kind,0
+a file is durable in the sense,0
+computer files can be considered as the modern counterpart,0
+files are organized in modern computer architectures,0
+files are organized in a tree structure,0
+the computer files contain the data,0
+many types are also represented as filesystems,0
+many types are also represented as systems,0
+many types are also represented as files,0
+new objects describes behavior,0
+new objects describes the common state,0
+a class represents a noun,0
+a cohesive package consists of a particular kind,0
+the data is partitioned into attributes,0
+the data is partitioned into an instance,0
+a class have runtime,0
+computer programs model aspects,0
+classes provide natural way,0
+classes create such models,0
+each class represents a noun,0
+the methods represent verbs,0
+verbs may apply to that noun,0
+various aspects are modeled example,0
+various aspects using such classes,0
+an invoice may have methods,0
+the system can model aspects,0
+the system can provide users,0
+the system can provide useful information,0
+classes allow a clear correspondence,0
+classes provide some control,0
+classes provide challenging complexity,0
+classes can accelerate development,0
+efficient class reuse means that addition,0
+another reason is to simplify the relationships,0
+gui items are similar to windows,0
+gui items inherit classes,0
+gui items are similar to windows,0
+the dialog class is unique to the programmer operation,0
+the programmer needs only to add code,0
+level configuration file used by apache web servers,0
+this tag has to say questions,0
+this tag say about questions,0
+specific level overrides level settings,0
+specific level must be enabled in level configuration,0
+url redirection using mod_rewrite is used by many sites,0
+the apache documentation has further information,0
+the programming languages can be used with tensorflow api,0
+a c++ api adding new operation kernels,0
+other languages can invoke tensorflow using tensorflow,0
+tensorflow achieves tensorflow performance,0
+tensorflow achieves parallelizing execution,0
+the kernel is implemented in c++,0
+the kernel using efficient libraries,0
+algorithmic questions submit questions,0
+algorithmic questions submit stack overflow,0
+algorithmic questions submit help,0
+algorithmic questions submit support,0
+tensorflow discuss mailing list,0
+mailing list is intended for general discussions,0
+tensorflow end users was originally developed linux systems,0
+tensorflow end users has been ported to other operating systems including microsoft windows,0
+the tensorflow community tends to favor support,0
+the amd radeon product line is improving improving nvidia support,0
+common brand used in a tensorflow workstation,0
+any recommendations become out of date,0
+any recommendations become out of the continuing improvements,0
+ubuntu 64 bit linux be using using 16.x,0
+ubuntu 64 bit linux be using using 16.x,0
+people be using using 16.x,0
+gpu enabled gpu enabled later series,0
+gpu enabled gpu enabled memory,0
+much data is being processed github,0
+much data is being processed neural networks,0
+tensorflow is not known to python,0
+the framework is built a set,0
+this tag be used for questions,0
+web built on a catalog,0
+applications built on a catalog,0
+symfony aims to speed the creation,0
+a low performance overhead used with a bytecode cache,0
+everything can be customized the directory structure,0
+symfony is bundled with additional tools,0
+this tag should be used for generic symfony questions,0
+the question is related to a specific version,0
+stable version can be found on the roadmap page,0
+symfony maintains releases,0
+releases are maintained for several years,0
+vue.js is maintained on github,1
+vue.js created by evan you,1
+vue is also perfectly capable of powering page applications,1
+cmake generates several integrated development environments,1
+cmake generates several integrated development environments,1
+cmake is often used along with ctest,1
+cmake is often used along with cdash,1
+cmake is often used along with cpack,1
+rust aims to achieve cost abstractions,1
+rust allows precise control,1
+rust commits to stability,1
+rust supports a mixture,1
+rust supports generic programming,1
+rust is also capable of creating creating bindings,1
+tcp is referred to as protocol,1
+tcp fits into internet protocol suite layers,1
+a javafx node displays webengine content,1
+backbone.js gives structure,1
+backbone.js gives collections,1
+backbone.js gives views,1
+backbone.js gives web applications,1
+neo4j maintains a public trello board,1
+neo4j maintains feature ideas,1
+neo4j maintains future development directions,1
+redis supports data structures,1
+hlls can be added with items,1
+hlls counted using pfcount commands,1
+redis has an impressive ecosystem,1
+rdb loses created snapshot,1
+windows introduced the universal windows platform,1
+appcontainers use security model,1
+appcontainers use the user's location,1
+appcontainers request additional access,1
+win32 apps do not typically run inside an appcontainer,1
+xaml uses a declarative xml dialect,1
+xaml use modern inputs,1
+uwp apis are available on all windows devices,1
+uwp apis are available to win32,1
+uwp apis are available to win32 apps,1
+win32 apps can access any existing windows api,1
+win32 apps can access feature,1
+win32 apps work on desktop windows devices,1
+uwp apps can be distributed via the microsoft store,1
+uwp apps loaded onto traditional deployment mechanisms,1
+toolbars can be used to display sortable column headers,1
+toolbars can be used to display paging information,1
+toolbars can be used to display filter controls,1
+data table provides own markup,1
+data table provides an html table,1
+docker works well for host docker installations,1
+hive facilitates easy data summarization,1
+apache hive allows traditional map,1
+apache hive promise low latencies,1
+azure repos provides unlimited private git,1
+azure boards provides agile planning,1
+azure devops provided by microsoft,1
+azure devops includes open source projects,1
+windows phone deprecated software development platform,1
+windows phone deprecated mobile operating system,1
+microsoft deprecated software development platform,1
+microsoft deprecated mobile operating system,1
+async nuget package is much improved from a straight callback style,1
+async nuget package is licensed for production code,1
+apache solr providing distributed index replication,1
+apache solr powers navigation features,1
+apache solr has json apis,1
+apache solr uses text indexing,1
+apache solr has an extensive plugin architecture,1
+apache solr can be accessed via http,1
+apache solr can be accessed via numerous client libraries,1
+apache solr can be accessed via http,1
+apache solr can be accessed via numerous client libraries,1
+visual studio includes cross-platform development support,1
+visual studio includes debugger1,1
+visual studio includes improvements,1
+visual studio is followed by studio,1
+ssis is used to perform etl operations,1
+ssis can extract data,1
+ssis can extract a wide variety,1
+etl stands for e xtract,1
+etl stands for t ransform,1
+etl stands for l oad,1
+color derives from the spectrum,1
+colors may be specified as an rgb triplet,1
+microsoft outlook includes an e-mail client,1
+microsoft outlook includes calendar,1
+microsoft outlook includes other personal information organization tools,1
+primefaces supports the jquery ui themeroller css framework,1
+primefaces supports fontawesome icon set,1
+primefaces supports the jquery ui themeroller css framework,1
+primefaces supports fontawesome icon set,1
+lua has automatic garbage collection,1
+lua runs by interpreting interpreting bytecode,1
+the main reasons lua is widely used by the machine learning community,1
+the main reasons lua is widely used by the main reasons lua,1
+lua is often referred to as extensible extension language,1
+lua combines simple procedural syntax,1
+lua has automatic memory management,1
+lua runs by interpreting virtual machine,1
+lua runs by interpreting interpreting bytecode,1
+redux defines a predictable state container,1
+xml is converted to an internal binary data type,1
+sql server allows a database server,1
+socket blurring the differences,1
+socket supports multiple transports,1
+a javascript library allows for easy programmatic communication,1
+swift 3 goals can be viewed on the swift programming language evolution repository,1
+authentication is different than authorization,1
+authentication allow access,1
+authentication happen together to verify identity,1
+authorization happen together to verify identity,1
+the windows nt kernel found in windows,1
+microsoft word features editing tools,1
+microsoft word was first released in the name multi-tool word,1
+word is also sold as a standalone product,1
+vbscript is generally used for intranet web applications,1
+vbscript has much common syntax,1
+cscript vbscript can be executed gui mode,1
+django views control rendering,1
+django views control rendering,1
+apache cassandra brings systems technologies,1
+apache cassandra provides data model,1
+apache cassandra provides bigtable,1
+apache cassandra's columnfamily data model offers strong support,1
+apache cassandra's columnfamily data model offers the convenience,1
+apache cassandra's columnfamily data model offers the performance,1
+scipy includes algorithms,1
+scipy includes tools,1
+scipy is closely related to numpy,1
+scipy depends on many numpy functions,1
+scipy is currently distributed under the bsd license,1
+network structure inspired by simplified models,1
+neural networks can be used to solve optimization problems,1
+neural networks can be used to solve approximation problems,1
+neural networks classify patterns,1
+neural networks have many practical applications,1
+gnu backgammon a used used network topology,1
+gnu backgammon a used unsupervised learning,1
+jar file contains manifest.mf,1
+jar files be signed with a certificate,1
+jar files prevent unathorized modification,1
+android devices receive push notifications,1
+android devices receive the google cloud messaging,1
+android devices used the cloud,1
+android devices used device messaging,1
+windows phone apps receive push notifications,1
+windows phone apps receive mpns,1
+windows phone apps receive wns,1
+pip installs packages,1
+the arduino uno has a reset button,1
+the arduino uno has a usb connection,1
+the arduino uno has a power jack,1
+the arduino uno has 6 analog inputs,1
+the arduino uno has output pins,1
+the arduino uno has an icsp header,1
+the arduino uno has ceramic resonator,1
+the arduino uno connect the microcontroller,1
+the arduino uno connect the microcontroller,1
+html can be turned into dsl,1
+three.js scripts may be used in conjunction,1
+three.js allows the creation,1
+three.js includes the following features,1
+stats.js runs in all browsers,1
+a hyperlink referred to as html documents,1
+using markdown is simplified to latex documents,1
+apache spark sql can be used to retrieve data,1
+apache spark sql provides a programming abstraction,1
+apache spark sql act as apache spark sql query engine,1
+gnu emacs was re-written using using c,1
+gnu emacs was re-written using gnu emacs lisp,1
+gnu emacs provide an extendable interface,1
+gnu emacs provide portability,1
+gnu emacs provides sensitive editing modes,1
+gnu emacs provides syntax coloring,1
+gnu emacs has extensive packaging support,1
+gnu emacs has package.el package,1
+stack overflow may be suitable for emacs stack exchange,1
+play is based on friendly architecture,1
+swiftui provides views,1
+swiftui provides controls,1
+swiftui provides layout structures,1
+swiftui provides app's user interface,1
+swiftui integrates with imperative appkit,1
+swiftui integrates with uikit,1
+swiftui integrates with watchkit frameworks,1
+an nsview can embed a swiftui view,1
+uiview can embed a swiftui view,1
+swiftui supports live previews,1
+swiftui supports dynamic replacement,1
+swiftui supports live previews,1
+swiftui supports dynamic replacement,1
+swiftui supports macos,1
+swiftui supports xcode,1
+swiftui supports macos,1
+swiftui supports xcode,1
+red hat ansible uses ssh,1
+red hat ansible is written in python,1
+red hat ansible can be extended in any language,1
+red hat ansible uses ssh,1
+red hat ansible uses python,1
+red hat ansible can be extended in any language,1
+red hat ansible capabilities cover infrastructure,1
+ansible tower can centralize it infrastructure,1
+ansible tower can centralize notifications,1
+ansible tower can centralize a visual dashboard,1
+ansible tower can centralize graphical inventory management,1
+ansible tower can centralize access control,1
+ansible tower can centralize job scheduling,1
+tag wikis contain an overview,1
+tag wikis contain guidelines,1
+functions take arguments,1
+functions return results,1
+functions don't mutate state,1
+clojure provides access,1
+yii is heavily inspired by ruby,1
+yii is heavily inspired by rails,1
+yii prefers lazy loading,1
+yii can perform eager loading,1
+yii's behavior system allows for multiple inheritance,1
+yii's behavior system allows for the mixin pattern,1
+yii2 was released on october 12nd,1
+google bigquery provides write pipelines,1
+google bigquery enables data analytics,1
+firebase authentication provides ui libraries,1
+firebase authentication provides backend services,1
+firebase authentication provides use sdks,1
+the jupyter notebook supports many different languages,1
+the jupyter notebook supports interactive shells,1
+the jupyter notebook supports python,1
+the jupyter notebook supports ipython,1
+the jupyter notebook supports the jupyter notebook predecessor ipython notebook,1
+the jupyter notebook provides a frontend,1
+the jupyter notebook provides interactive shells,1
+the jupyter notebook supports 40 different languages including python,1
+each jupyter notebook document may contain executable code blocks,1
+each jupyter notebook document may contain outputs,1
+each jupyter notebook document may contain markdown text,1
+kendo ui is comprised of an open source core,1
+scripting feeding an interpreter,1
+powershell has been extended to multiple platforms,1
+scripting languages are traditionally used for software installation,1
+scripting languages are traditionally used for common system administration tasks,1
+cron is commonly used to automate system maintenance,1
+cron is commonly used to automate administration,1
+cron can run any command,1
+ssh asks for a password,1
+urls are used to provide looking links,1
+"mozilla has implemented the <img?srcset=\\"\\"> attribute",1
+mozilla has implemented the <picture> element,1
+a java compiler generates class files containing java,1
+xamarin comprises a plugin,1
+xamarin comprises an ide,1
+xamarin comprises libraries,1
+xamarin implements a hybrid approach,1
+scrapy can be used for testing,1
+scrapy can be used for data mining,1
+scrapy can be used for testing,1
+scrapy can be used for data mining,1
+scrapy was born at e-commerce company mydeco,1
+phpmyadmin written in php,1
+mysql administration tool written in php,1
+mysql administration tool written in php,1
+phpmyadmin handle mysql,1
+3d graphics involve matrix manipulation,1
+3d graphics involve vector mathematics,1
+bitmaps are mostly used to encode graphic data,1
+bitmaps are mostly used to encode images,1
+java was originally designed for testing web applications,1
+apache jmeter may be used to test performance,1
+http client can be used in end application,1
+http client can be used in node.js,1
+http client can be used in end application,1
+http client can be used in node.js,1
+apache ant is used to build java applications,1
+apache ant be used effectively to build non-java software,1
+the raspberry pi requires an os,1
+jest provides automated mock creation,1
+jest provides automated a jsdom environment,1
+pyqt runs on all platforms,1
+the qtcore module contains non-gui classes,1
+the qtcore module includes independent abstractions,1
+the qtcore module is based on the c++ port,1
+the qtcore module implements a web browser engine,1
+the qtcore module is installed as dbus.mainloop.qt,1
+ios includes user interface,1
+grep uses regular expressions,1
+grep is commonly used as pipelines,1
+grep is commonly used as a filter,1
+grep match text,1
+grep was originally developed for the unix operating system,1
+jboss application server provides the full range,1
+linq maps the data model,1
+linq maps an object model,1
+linq translates sql,1
+linq translates queries,1
+the x86 family includes 64 architectures,1
+a legacy bios int 10h bootloader loads kernel,1
+a legacy bios int 10h bootloader calls main function,1
+a legacy bios int 10h bootloader calls protected mode,1
+masm ignores brackets,1
+masm ignores symbolic immediates,1
+lea can be used with lea eax,1
+lea can be used with garbage,1
+lea can be used with high bits,1
+the c++ mentions standard template library,1
+lisp uses nil,1
+lisp mean the empty list,1
+lisp mean the boolean value,1
+c.a.r. hoare described dollar mistake,1
+nul is used to mark c,1
+nul is used to mark the end,1
+ad networks can vary from many different network domains,1
+ad networks can vary from large server farms,1
+json binding solutions include google gson,1
+json binding solutions include svenson,1
+json binding solutions include fastjson,1
+graphql provides understandable description,1
+mvc web application map an arbitrary url,1
+openssl is maintained by the openssl project,1
+multi-platform orm developed by microsoft,1
+opengl is managed by the khronos group,1
+a virtual camera system provides virtual worlds,1
+a virtual camera system aims at controlling 3d video games,1
+xsd refers to a document,1
+w3c has adopted xsd,1
+w3c has adopted acronym,1
+pycharm is developed by jetbrains,1
+pycharm is developed by windows,1
+pycharm is developed by mac os x,1
+pycharm is developed by linux,1
+the sas system includes gui,1
+addition sas has ods,1
+sas includes a macro language,1
+sas improve readability,1
+mongodb does not support sql,1
+mongodb does not support relational databases,1
+the mongodb query language uses json,1
+the mongodb query language uses the mongo shell,1
+the mongodb query language uses bson,1
+mongodb has a rich query language,1
+mongodb includes a database profiler,1
+jquery plugins could be found in npm,1
+the android sdk lets critical portions,1
+the android sdk lets native code,1
+the android sdk lets port existing libraries,1
+android ndk applications include java code,1
+android ndk applications include assembly code,1
+android ndk applications include resource files,1
+android ndk applications include c,1
+cuda provides an interface,1
+cuda provides libraries,1
+cuda provides apis,1
+cuda provides apis,1
+spritekit uses a traditional rendering loop,1
+spritekit is available on watchos,1
+spritekit is available on ios,1
+spritekit is available on macos,1
+spritekit is available on tvos,1
+spritekit uses the graphics hardware,1
+spritekit uses composite 2d images,1
+spritekit supports a rich rendering infrastructure,1
+gulp uses streams,1
+gulp uses over-configuration,1
+gulp uses intuitive build process,1
+gulp can automate common tasks,1
+gulp can automate development process,1
+gulp uses the streams,1
+jasmine has no external dependencies,1
+jasmine does not require a dom,1
+anaconda optimized for python,1
+anaconda includes environment manager,1
+mfc offers classes,1
+mfc offers templates,1
+mfc provides models,1
+mfc provides the application,1
+mfc uses a single inheritance model,1
+mfc classes are identified by the prefix cmfc,1
+mfc classes are identified by cmfcpropertypage,1
+mfc classes are identified by the prefix cmfc,1
+mfc classes are identified by cmfcpropertypage,1
+mfc classes are identified by the prefix cmfc,1
+mfc classes are identified by cmfcpropertypage,1
+all mfc classes inherit from cobject,1
+prolog supports non-deterministic programming,1
+prolog supports chronological backtracking,1
+prolog is used for reasoning,1
+prolog is used for deductive databases,1
+prolog is used for planning,1
+prolog is used for scheduling tasks,1
+prolog is often used to introduce the declarative paradigm,1
+electron is based upon node.js,1
+electron is based upon chromium,1
+jwt is used by the openid connect authenticatication standard,1
+linux provides c language bindings,1
+the android gradle plugin was introduced at google io,1
+centos is based on community enterprise operating system,1
+xampp is compatible with windows,1
+xampp is compatible with linux,1
+xampp is compatible with mac,1
+xampp is compatible with solaris,1
